@@ -1,0 +1,51 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+/* #bulb
+{
+    height: 125px;
+    width: 125px;
+    border: 2px solid black;
+    border-radius: 100%;
+}
+#b1
+{
+    padding: 10px;
+    margin-left: 35px;
+    margin-top: 20px;
+} */
+h1
+{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    background-color: aqua;
+    padding: 10px;
+    border-bottom: 4px solid black;
+}
+p{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 25px;
+    font-weight:255px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.clock{
+    height: 250px;
+    width: 650px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 45px;
+}
+#t{
+    text-align: left;
+    padding-left: 10px;
+    padding-top:20px;
+}
+#time
+{
+    text-align: center;
+    font-size: 100px;
+}
